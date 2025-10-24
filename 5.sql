@@ -1,0 +1,2 @@
+create database normalization;
+create table scd(s_id int,s_name varchar(20),major varchar(5),c_id varchar(5),c_name varchar(10),credits int,enrollment_date date,ins_id varchar(5),ins_name varchar(20),phonum bigint);
